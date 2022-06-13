@@ -1,6 +1,6 @@
 # Autor del Código: CGLMaster
 
-#Insertar las credenciales de tu token de twitch
+# Insertar las credenciales de tu token de twitch
 from igdb.wrapper import IGDBWrapper
 wrapper = IGDBWrapper("****************", "********************")
 
